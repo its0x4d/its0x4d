@@ -1,0 +1,20 @@
+name: Wakatime
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: 'Update stats'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          SHOW_TITLE: true
+          USERNAME: its0x4d
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MESSAGE: "Update WakaTime metrics"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
