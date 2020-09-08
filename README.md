@@ -2,13 +2,13 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 30 August, 2020 - 06 September, 2020
+Week: 31 August, 2020 - 07 September, 2020
 
-Python       4 hrs 41 mins   █████████████░░░░░░░░░░░░   52.38 % 
-HTML         2 hrs 2 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.89 % 
-JavaScript   1 hr 39 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.61 % 
-Nimrod       30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Python       3 hrs 31 mins   ██████████▓░░░░░░░░░░░░░░   42.44 % 
+JavaScript   2 hrs 9 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.07 % 
+HTML         2 hrs 3 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.88 % 
+Nimrod       30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 <!--END_SECTION:waka-->
 
