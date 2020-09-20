@@ -2,7 +2,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 11 September, 2020 - 18 September, 2020
+Week: 12 September, 2020 - 19 September, 2020
 
 Python       4 hrs 13 mins   ██████████████████░░░░░░░   72.37 % 
 HTML         54 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
