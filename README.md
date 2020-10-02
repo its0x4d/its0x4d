@@ -2,10 +2,11 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 23 September, 2020 - 30 September, 2020
+Week: 24 September, 2020 - 01 October, 2020
 
-Python   2 hrs 7 mins    ████████████████████████░   95.41 % 
-XML      6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Python   3 hrs 6 mins    ███████████████████████▒░   93.22 % 
+HTML     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+XML      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 ```
 <!--END_SECTION:waka-->
 
