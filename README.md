@@ -2,7 +2,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 14 October, 2020 - 21 October, 2020
+Week: 15 October, 2020 - 22 October, 2020
 
 Python       3 hrs 5 mins    ███████████████████▒░░░░░   77.23 % 
 HTML         53 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.05 % 
