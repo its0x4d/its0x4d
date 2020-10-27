@@ -2,11 +2,11 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 18 October, 2020 - 25 October, 2020
+Week: 19 October, 2020 - 26 October, 2020
 
-Python       3 hrs 5 mins    ███████████████████▒░░░░░   77.23 % 
-HTML         53 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.05 % 
-Cython       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Python       2 hrs 5 mins    ███████████████████▒░░░░░   77.62 % 
+HTML         34 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.31 % 
+Cython       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 <!--END_SECTION:waka-->
 
